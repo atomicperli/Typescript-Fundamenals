@@ -12,7 +12,7 @@ let anonymousFunctionWithParameters = function(x: number, y:number): number {
 }
 
 
-//console.log(anonymousFunctionWithParameters(20,40))
+console.log(anonymousFunctionWithParameters(20,40))
 
 
 //Arrow Function
@@ -21,7 +21,7 @@ let arrowFunction =  (): void => console.log("Hello World Arrow Function")
 
 
 
-//arrowFunction()
+arrowFunction()
 
 let arrowFunctionWithParameters = (x: number, y:number): number =>  x+y
 

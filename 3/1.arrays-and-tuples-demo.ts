@@ -1,6 +1,7 @@
 // arrays-and-tuples-demo.ts
 
 // Array
+export{}
 let fruits: string[] = ["Apple", "Banana", "Mango"];
 
 console.log("Fruits:", fruits); 
