@@ -14,6 +14,8 @@
 // 3. Inheritance
 // 4. Polymorphism
 
+export{}
+
 class Person {
 
     protected name: string
