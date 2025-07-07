@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var util_1 = require("./util");
+var util_2 = require("./util");
+var util_3 = require("../ImportAndExport/AnotherFolder/util");
+var util_4 = require("../ImportAndExport/AnotherFolder/util");
+console.log((0, util_1.default)());
+console.log((0, util_1.complex)());
+var person = new util_2.Person("Yash", 31);
+person.printPersonDetails();
+console.log((0, util_3.complex)());
+var person2 = new util_4.Person("Bush", 78);
+person2.printPersonDetails();
