@@ -110,5 +110,5 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
-  "include": ["5/4.string-functions-demo.ts", "5/3.array-functions.ts"]
+  "include": ["5/4.string-functions-demo.ts", "5/3.array-functions.ts", "Async-Programming/*"]
 }
